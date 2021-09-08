@@ -1,6 +1,6 @@
 @import url('https://fonts.googleapis.com/css2?family=B612&display=swap');
-@import "../css/cards.css";
-@import "../css/responsiveness.css";
+@import './cards.css';
+@import './queries.css';
 
 body {
     background-image: url('../../media/bush.png');
