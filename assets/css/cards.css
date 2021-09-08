@@ -1,0 +1,32 @@
+.card-grid {
+    display: grid;
+    grid-template-columns: repeat(auto-fill, minmax(350px, 1fr));
+    grid-auto-rows: minmax(200px, auto);
+    grid-gap: 1rem;
+    margin-top: 30px;
+}
+
+.card {
+    border: 2px solid black;
+    border-radius: 4px;
+    display: flex;
+    flex-direction: column;
+    position: relative;
+    background-color: white;
+}
+
+.card-text {
+    padding: .5rem;
+}
+
+.card-text a {
+    text-decoration: none;
+    color: green;
+}
+
+img {
+    float: left;
+    width:  100%;
+    height: 70%;
+    object-fit: cover;
+}

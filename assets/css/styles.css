@@ -1,0 +1,49 @@
+@import url('https://fonts.googleapis.com/css2?family=B612&display=swap');
+@import "../css/cards.css";
+@import "../css/responsiveness.css";
+
+body {
+    background-image: url('../../media/bush.png');
+    font-family: 'B612', sans-serif;
+    margin-top: 0;
+    margin-left: 10%;
+    margin-right: 10%;
+}
+
+nav {
+    padding: 20px;
+    background-color: white;
+    border: 2px solid black;
+    border-top: 0;
+}
+
+nav a {
+    padding: 20px;
+    text-decoration: none;
+    color: teal;
+}
+
+.nav-right {
+    float: right;
+}
+
+header {
+    text-align: center;
+}
+
+footer {
+    margin-top: 50px;
+    margin-bottom: 0;
+    padding: 20px;
+    text-align: center;
+    background-color: white;
+    border: 2px solid black;
+}
+
+footer a {
+    display: inline-grid;
+    margin-left: 60px;
+    margin-right: 60px;
+    text-decoration: none;
+    color: teal;
+}
