@@ -12,6 +12,10 @@ nav a {
     text-decoration: none;
 }
 
+.nav-right {
+    float: right;
+}
+
 header {
     text-align: center;
 }
