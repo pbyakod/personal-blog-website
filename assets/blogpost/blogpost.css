@@ -16,6 +16,7 @@
 .flex-child:last-child {
     padding: 20px;
     text-align: justify;
+    background-color: white;
 }
 
 img {

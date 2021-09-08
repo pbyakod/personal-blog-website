@@ -1,4 +1,5 @@
 body {
+    background-image: url('../media/bush.png');
     margin-left: 10%;
     margin-right: 10%;
 }
@@ -45,6 +46,7 @@ footer a {
     display: flex;
     flex-direction: column;
     position: relative;
+    background-color: white;
 }
 
 .card-text {
