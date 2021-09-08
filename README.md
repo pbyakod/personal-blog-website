@@ -16,7 +16,7 @@ git clone https://github.com/pbyakod/personal-blog-website.git
 
 Or view the deployed page from the following sie:
 
-https://github.com/pbyakod/personal-blog-website.git
+https://pbyakod.github.io/personal-blog-website/
 
 ## Website Preview 
 
