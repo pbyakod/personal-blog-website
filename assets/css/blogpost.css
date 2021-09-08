@@ -17,6 +17,7 @@
     padding: 20px;
     text-align: justify;
     background-color: white;
+    overflow: scroll;
 }
 
 img {
